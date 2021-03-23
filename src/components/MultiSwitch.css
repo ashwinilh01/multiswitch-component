@@ -1,0 +1,39 @@
+.multiswitch_component {
+    margin: auto;
+    width: 35%;
+    border: 1px solid black;
+	height:7em;
+	text-align:center;
+}
+.title_one {
+	font-size: 18px;
+    font-family: sans-serif,monospace;
+	margin-bottom:5px;
+	font-weight: bold;
+    margin-top:10px;
+	text-align: center;
+}
+.description {
+	font-size: 12px;
+    font-family: sans-serif;
+	margin-bottom:20px;
+}
+.sub_title{
+	font-size: 12px;
+    font-family: sans-serif;
+	margin-bottom:20px;
+}	
+.title_two {
+	margin-top:2%;
+	text-align: center;
+}
+.multi_button {
+    width: 65px;
+    height: 30px;
+    border-radius: 5px;
+	text-align:center;
+	border-color: #cc00cc;
+	background-color:white;
+    color:#cc00cc;
+    margin:5px;
+}
